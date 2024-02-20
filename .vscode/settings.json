@@ -1,0 +1,18 @@
+{
+  "cSpell.words": [
+    "getpid",
+    "SIGABRT",
+    "SIGALRM",
+    "SIGBUS",
+    "SIGFPE",
+    "SIGHUP",
+    "SIGILL",
+    "SIGKILL",
+    "SIGPIPE",
+    "SIGQUIT",
+    "SIGSEGV",
+    "SIGTERM",
+    "SIGTRAP",
+    "SIGUSR"
+  ]
+}

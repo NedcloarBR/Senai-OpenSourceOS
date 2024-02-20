@@ -1,0 +1,7 @@
+[Unit]
+Description="Trabalho G1 - Systemd e Python"
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/python3 -u /home/nedcloarbr/Projetos/Faculdade/OpenSourceOS/G1/Signals.py
